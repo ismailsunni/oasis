@@ -4,7 +4,7 @@ Created on Sep 3, 2012
 @author: Ismail Sunni
 '''
 
-class Preprocess(object):
+class Preprocess():
     '''
     Class for preprocessing a text
     '''
